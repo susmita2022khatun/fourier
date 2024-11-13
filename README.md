@@ -85,7 +85,7 @@ The Proteus simulation generates three key text files:
 
 Additionally, plot of the output is provided to visualize the relationship between the input and output.
 
-### 3D Plot of Neuron Output:
+### Plot of Output:
 
 ![Output Plot](output_plot.png)
 
