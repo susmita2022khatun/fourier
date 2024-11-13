@@ -93,8 +93,8 @@ Additionally, plot of the output is provided to visualize the relationship betwe
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/neuron-hardware-simulation.git
-    cd neuron-hardware-simulation
+    git clone https://github.com/susmita2022khatun/fourier.git
+    cd fourier
     ```
 
 2. Set up the Proteus simulation with the appropriate circuit blocks for multiplication, integration, sine generator and cosine generator blocks.
